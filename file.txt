@@ -1,1 +1,95 @@
 It can be anything.
+```
+nano file.txt
+```
+anotha one
+```
+cat file.txt
+```
+```
+git status
+```
+```
+git diff
+```
+```
+git add -A
+```
+```
+git status
+```
+```
+git commit -m "Edit file.txt"
+```
+```
+git status
+```
+```
+git push -u origin main
+```
+```
+git push -u origin main
+```
+```
+git status
+```
+```
+git log
+```
+```
+git show <SHA>
+```
+```
+cd ~/Git/Git_tutorial_S22/Learning-Git
+```
+```
+touch newfile.txt
+```
+```
+ls
+```
+```
+git status
+```
+```
+nano file.txt
+```
+```
+git status
+```
+```
+git add file.txt
+```
+```
+git status
+```
+```
+git commit -m "Change only file.txt"
+```
+```
+git status
+```
+```
+git add newfile.txt
+```
+```
+git status
+```
+```
+git commit -m "Add newfile.txt"
+```
+```
+git push
+```
+```
+git status
+```
+```
+git log
+```
+```
+git commit -am "<message>"
+```
+```
+git push
+```
